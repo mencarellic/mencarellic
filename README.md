@@ -5,4 +5,4 @@ I do 🧰  DevOps/SRE work day to day right now. But have a history in:
 * 🌐  Network Engineering
 * 🥼  Data Science!
 
-I'd love to hear from you! [me@carlo.cloud](mailto:me@carlo.cloud)  📨
+I'd love to hear from you! [me@carlo.cloud](mailto:me@carlo.cloud)
